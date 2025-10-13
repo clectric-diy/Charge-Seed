@@ -1,14 +1,14 @@
 ## Design
-Our design goal is to create a breakout board that includes the pinout diagram so that you have the reference information that you need to work with the Daisy Seed.
+Our goal is to create a breakout board that includes the pinout diagram so that you have the reference information that you need to work with the Daisy Seed.
 
 ## Prototype
 We have just sent v0.1 of our _Charge Seed Breakout Board_ for production.
 
-### 2D
-![2D perspective of v0.1 of the breakout board](docs/images/Charge-Seed-Breakout-v0.1-2D.png)
+### 2D Render
+![2D perspective render of v0.1 of the breakout board](docs/images/Charge-Seed-Breakout-v0.1-2D.png)
 
-### 3D
-![3D perspective of v0.1 of the breakout board](docs/images/Charge-Seed-Breakout-v0.1-3D.png)
+### 3D Render
+![3D perspective render of v0.1 of the breakout board](docs/images/Charge-Seed-Breakout-v0.1-3D.png)
 
 ### Caveat
 The PCB fabricator that we use requires the use of their proprietary software to add the images, so while the images are available here, there are extra steps to put them on the board.
