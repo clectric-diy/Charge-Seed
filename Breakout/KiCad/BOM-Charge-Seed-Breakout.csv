@@ -1,0 +1,4 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U8,U7,U4,U5";"HDR-TH_20P-P2.54-V-F-2";4;"2541FV-20P-B";;;
+2;"U3,U6";"HDR-TH_20P-P2.54-V-M-4";2;"P125-1120A0BS116A1";;;
+3;"U1,U9,U2,U10";"CONN-TH_10P-P2.54_JILN_JL308-25410G01";4;"JL308-25410G01";;;
