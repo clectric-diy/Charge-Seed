@@ -10,6 +10,9 @@ We have just sent v0.1 of our _Charge Seed Breakout Board_ for production.
 ### 3D
 ![3D perspective of v0.1 of the breakout board](docs/images/Charge-Seed-Breakout-v0.1-3D.png)
 
+### Caveat
+The PCB fabricator that we use requires the use of their proprietary software to add the images, so while the images are available here, there are extra steps to put them on the board.
+
 ## Feedback
 Constructive [feedback](https://github.com/orgs/clectric-diy/discussions/categories/charge-seed-q-a) is welcome!
 
