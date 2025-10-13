@@ -5401,7 +5401,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "clectric.diy\nCharge Seed Breakout Board"
+	(gr_text "clectric.diy Charge\nDaisy Seed Breakout Board"
 		(at 63.894637 58.507679 0)
 		(layer "F.SilkS")
 		(uuid "aa057e8c-b1b6-4188-937f-e6007323330c")
