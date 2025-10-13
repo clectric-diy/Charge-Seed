@@ -1,13 +1,17 @@
-# First Render
-Here is the first render of our Daisy Seed Breakout Board :
+## Design
+Our design goal is to create a breakout board that includes the pinout diagram so that you have the reference information that you need to work with the Daisy Seed.
 
-![2D perspective of breakout board](docs/images/Charge-Seed-1st-Render.png)
+## Prototype
+We have just sent v0.1 of our _Charge Seed Breakout Board_ for production.
 
-The goal is to create a breakout board that includes the reference information that you need to work with the Daisy Seed.
+### 2D
+![2D perspective of v0.1 of the breakout board](docs/images/Charge-Seed-Breakout-v0.1-2D.png)
 
-It's hard to tell without a 3D perspective, but those are female headers for the seed to plug into with both male and female headers available to use as well as screw terminal blocks.
+### 3D
+![3D perspective of v0.1 of the breakout board](docs/images/Charge-Seed-Breakout-v0.1-3D.png)
 
-Constructive [feedback](https://github.com/orgs/clectric-diy/discussions/39) is welcome!
+## Feedback
+Constructive [feedback](https://github.com/orgs/clectric-diy/discussions/categories/charge-seed-q-a) is welcome!
 
-# License
+## License
 This project is open hardware under the [CERN-OHL-S](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/b236492596cfc91c12def7d50bbf7da0/cern_ohl_s_v2.pdf) license.
