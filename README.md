@@ -1,8 +1,7 @@
+This breakout board is available for purchase at [store.clectric.diy](https://store.clectric.diy).
+
 ## Design
 Our goal is to create a breakout board that includes the pinout diagram so that you have the reference information that you need to work with the Daisy Seed.
-
-## Prototype
-We have just sent v0.1 of our _Charge Seed Breakout Board_ for production.
 
 ### 2D Render
 ![2D perspective render of v0.1 of the breakout board](docs/images/Charge-Seed-Breakout-v0.1-2D.png)
